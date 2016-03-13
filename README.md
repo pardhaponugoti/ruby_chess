@@ -20,3 +20,10 @@ Use the following command to start the game:
 `ruby game.rb`
 
 ![](http://res.cloudinary.com/pardha/image/upload/v1457829732/Screen_Shot_2016-03-12_at_4.38.57_PM_fvswrf.png)
+
+### For the Lazy/Impatient
+
+Here are some quick ways to win:
+
+![Two Move Checkmate](http://f.tqn.com/y/chess/1/S/G/0/-/-/Qh4mate.gif)
+![Four Move Checkmate](http://i199.photobucket.com/albums/aa33/Wbisbill/checkmate.jpg)
