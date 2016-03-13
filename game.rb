@@ -44,7 +44,7 @@ class HumanPlayer
   attr_accessor :color
   attr_reader :name
 
-  def initialize(name = "Mingshuo")
+  def initialize(name = "Current Player")
     @name = name
   end
 
@@ -62,6 +62,6 @@ class HumanPlayer
 end
 
 if __FILE__ == $PROGRAM_NAME
-  game = Game.new([HumanPlayer.new("Pardha"), HumanPlayer.new])
+  game = Game.new([HumanPlayer.new("Player 1"), HumanPlayer.new("Player 2")])
   game.play
 end
