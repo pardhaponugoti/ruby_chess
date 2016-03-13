@@ -25,5 +25,8 @@ Use the following command to start the game:
 
 Here are some quick ways to win:
 
-![Two Move Checkmate](http://f.tqn.com/y/chess/1/S/G/0/-/-/Qh4mate.gif)
-![Four Move Checkmate](http://i199.photobucket.com/albums/aa33/Wbisbill/checkmate.jpg)
+#### Two Move Checkmate (Fool's Mate)
+![](http://f.tqn.com/y/chess/1/S/G/0/-/-/Qh4mate.gif)
+
+#### Four Move Checkmate (Scholar's Mate)
+![](http://i199.photobucket.com/albums/aa33/Wbisbill/checkmate.jpg)
